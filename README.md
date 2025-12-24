@@ -31,3 +31,5 @@ Install from the Obsidian community plugins browser by searching for **obsidian-
 ## Original Author and License
 
 This plugin is based on *Etymology Lookup* by Claire Froelich, licensed under the MIT License:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ducktapekiller)
